@@ -1,5 +1,5 @@
 # Rubem Mota
-[![Twitter](https://img.shields.io/twitter/url?label=Rubemlrm&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Frubemlrm)](https%3A%2F%2Ftwitter.com%2Frubemlrm)
+[![Twitter](https://img.shields.io/twitter/url?label=Rubemlrm&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Frubemlrm)](https://twitter.com/rubemlrm)
 [![Linkedin](https://img.shields.io/twitter/url?label=Rubemlrm&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frubemlrm)](https://www.linkedin.com/in/rubemlrm)
 ---
 
