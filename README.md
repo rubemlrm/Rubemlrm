@@ -15,7 +15,7 @@ A curious person by nature. Karaté lover and a fan of trading Card games like m
 ## Working with:
 
 ### Languages:
-![](https://img.shields.io/badge/php-gray?color=grey&logo=php&style=for-the-badge) ![](https://img.shields.io/badge/javasacript-gray?color=grey&logo=Javascript&style=for-the-badge) ![](https://img.shields.io/badge/C%23-gray?color=grey&logo=c-sharp&style=for-the-badge)
+![](https://img.shields.io/badge/php-gray?color=grey&logo=php&style=for-the-badge) ![](https://img.shields.io/badge/javascript-gray?color=grey&logo=Javascript&style=for-the-badge) ![](https://img.shields.io/badge/C%23-gray?color=grey&logo=c-sharp&style=for-the-badge)
 
 ### Tech/Frameworks:
 
