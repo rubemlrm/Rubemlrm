@@ -19,7 +19,11 @@ A curious person by nature. Karaté lover and a fan of trading Card games like m
 
 ### Tech/Frameworks
 
-![](https://img.shields.io/badge/WCF-gray?color=grey&logo=.Net) ![](https://img.shields.io/badge/Laravel-gray?color=grey&logo=Laravel) ![](https://img.shields.io/badge/Vuejs-gray?color=grey&logo=Vue.js)
+![](https://img.shields.io/badge/WCF-gray?color=grey&logo=.Net) ![](https://img.shields.io/badge/Laravel-gray?color=grey&logo=Laravel) ![](https://img.shields.io/badge/Vuejs-gray?color=grey&logo=Vue.js) ![](https://img.shields.io/badge/MariaDB-gray?color=grey&logo=mariadb) ![](https://img.shields.io/badge/MSSql-gray?color=grey&logo=Microsoft-SQL-Server)
+
+### Operating Systems
+
+![](https://img.shields.io/badge/CentOS-gray?color=grey&logo=CentOS) ![](https://img.shields.io/badge/Debian-gray?color=grey&logo=Debian) ![](https://img.shields.io/badge/Windows%20Server-gray?color=grey&logo=Microsoft)  
 
 ### Learning about: 
 ![](https://img.shields.io/badge/Ansible-gray?color=grey&logo=ansible) ![](https://img.shields.io/badge/GithubActions-gray?color=grey&logo=github-actions)
