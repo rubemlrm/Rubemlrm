@@ -25,6 +25,10 @@ A curious person by nature. Karaté lover and a fan of trading Card games like m
 
 ![](https://img.shields.io/badge/CentOS-gray?color=grey&logo=CentOS&style=for-the-badge) ![](https://img.shields.io/badge/Debian-gray?color=grey&logo=Debian&style=for-the-badge) ![](https://img.shields.io/badge/Windows%20Server-gray?color=grey&logo=Microsoft&style=for-the-badge)  
 
+## Tools
+![](https://img.shields.io/badge/Visual%20Studio-gray?color=grey&logo=Visual-Studio&style=for-the-badge) ![](https://img.shields.io/badge/Visual%Studio%Code-gray?color=grey&logo=Visual-Studio-Code&style=for-the-badge) ![](https://img.shields.io/badge/Git-gray?color=grey&logo=Git&style=for-the-badge) ![](https://img.shields.io/badge/Apache-gray?color=grey&logo=apache&style=for-the-badge)
+
+
 ### Learning about: 
 ![](https://img.shields.io/badge/Ansible-gray?color=grey&logo=ansible&style=for-the-badge) ![](https://img.shields.io/badge/GithubActions-gray?color=grey&logo=github-actions&style=for-the-badge)
 
