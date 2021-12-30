@@ -15,36 +15,41 @@ A curious person by nature. Karaté lover and a fan of trading Card games like m
 ## Working with:
 
 ### Languages:
-![](https://img.shields.io/badge/php-gray?color=grey&logo=php&style=for-the-badge) 
+![](https://img.shields.io/badge/php-gray?color=grey&logo=php&style=for-the-badge)
 ![](https://img.shields.io/badge/javascript-gray?color=grey&logo=Javascript&style=for-the-badge)
 ![](https://img.shields.io/badge/C%23-gray?color=grey&logo=c-sharp&style=for-the-badge)
 
 ### Tech/Frameworks:
 
-![](https://img.shields.io/badge/WCF-gray?color=grey&logo=.Net&style=for-the-badge) 
-![](https://img.shields.io/badge/Laravel-gray?color=grey&logo=Laravel&style=for-the-badge) 
-![](https://img.shields.io/badge/Vuejs-gray?color=grey&logo=Vue.js&style=for-the-badge) 
-![](https://img.shields.io/badge/MariaDB-gray?color=grey&logo=mariadb&style=for-the-badge) 
+![](https://img.shields.io/badge/WCF-gray?color=grey&logo=.Net&style=for-the-badge)
+![](https://img.shields.io/badge/Laravel-gray?color=grey&logo=Laravel&style=for-the-badge)
+![](https://img.shields.io/badge/Vuejs-gray?color=grey&logo=Vue.js&style=for-the-badge)
+![](https://img.shields.io/badge/MariaDB-gray?color=grey&logo=mariadb&style=for-the-badge)
 ![](https://img.shields.io/badge/MSSql-gray?color=grey&logo=Microsoft-SQL-Server&style=for-the-badge)
+![](https://img.shields.io/badge/Docker-gray?color=grey&logo=Docker&style=for-the-badge)
+![](https://img.shields.io/badge/Kubernetes-gray?color=grey&logo=Kubernetes&style=for-the-badge)
 
 ### Operating Systems:
 
-![](https://img.shields.io/badge/CentOS-gray?color=grey&logo=CentOS&style=for-the-badge) 
-![](https://img.shields.io/badge/Debian-gray?color=grey&logo=Debian&style=for-the-badge) 
-![](https://img.shields.io/badge/Windows%20Server-gray?color=grey&logo=Microsoft&style=for-the-badge)  
+![](https://img.shields.io/badge/CentOS-gray?color=grey&logo=CentOS&style=for-the-badge)
+![](https://img.shields.io/badge/Debian-gray?color=grey&logo=Debian&style=for-the-badge)
 
 ## Tools
-![](https://img.shields.io/badge/Visual%20Studio-gray?color=grey&logo=Visual-Studio&style=for-the-badge) 
-![](https://img.shields.io/badge/Git-gray?color=grey&logo=Git&style=for-the-badge) 
+![](https://img.shields.io/badge/Visual%20Studio-gray?color=grey&logo=Visual-Studio&style=for-the-badge)
+![](https://img.shields.io/badge/Git-gray?color=grey&logo=Git&style=for-the-badge)
 ![](https://img.shields.io/badge/Apache-gray?color=grey&logo=apache&style=for-the-badge)
 
 
-### Learning about: 
+### Learning about:
 ![](https://img.shields.io/badge/Ansible-gray?color=grey&logo=ansible&style=for-the-badge) ![](https://img.shields.io/badge/GithubActions-gray?color=grey&logo=github-actions&style=for-the-badge)
 
 
 ---
 ## Contributing to:
 
-- **![FogosPT](https://github.com/FogosPT/fogospt)** 
+- **![FogosPT](https://github.com/FogosPT/fogospt)**
 - **![MagPiDownloader](https://github.com/joergi/MagPiDownloader)**
+
+---
+## Stats
+![Rubemlrm GitHub stats](https://github-readme-stats.vercel.app/api?username=rubemlrm&show_icons=true&theme=nord) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubemlrm&theme=nord&langs_count=8&layout=compact)]
