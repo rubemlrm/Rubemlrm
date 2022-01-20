@@ -9,39 +9,42 @@
 
 ## About me
 
-A curious person by nature. Karaté lover and a fan of trading Card games like magic the gathering. Working with 2 different worlds (MS/Linux). In the past years i have worked mainly for web and some linux system administration.
+A curious person by nature. Karaté lover and a fan of trading Card games like magic the gathering. In the past years i have worked mainly for web and some linux system administration.
 
 ---
 ## Working with:
 
 ### Languages:
-![](https://img.shields.io/badge/php-gray?color=grey&logo=php&style=for-the-badge)
-![](https://img.shields.io/badge/javascript-gray?color=grey&logo=Javascript&style=for-the-badge)
-![](https://img.shields.io/badge/C%23-gray?color=grey&logo=c-sharp&style=for-the-badge)
+![](https://img.shields.io/badge/php-gray?logo=php&style=for-the-badge)
+![](https://img.shields.io/badge/javascript-gray?logo=Javascript&style=for-the-badge)
+![](https://img.shields.io/badge/C%23-gray?logo=c-sharp&style=for-the-badge)
 
 ### Tech/Frameworks:
 
-![](https://img.shields.io/badge/WCF-gray?color=grey&logo=.Net&style=for-the-badge)
-![](https://img.shields.io/badge/Laravel-gray?color=grey&logo=Laravel&style=for-the-badge)
-![](https://img.shields.io/badge/Vuejs-gray?color=grey&logo=Vue.js&style=for-the-badge)
-![](https://img.shields.io/badge/MariaDB-gray?color=grey&logo=mariadb&style=for-the-badge)
-![](https://img.shields.io/badge/MSSql-gray?color=grey&logo=Microsoft-SQL-Server&style=for-the-badge)
-![](https://img.shields.io/badge/Docker-gray?color=grey&logo=Docker&style=for-the-badge)
-![](https://img.shields.io/badge/Kubernetes-gray?color=grey&logo=Kubernetes&style=for-the-badge)
+![](https://img.shields.io/badge/WCF-gray?logo=.Net&style=for-the-badge)
+![](https://img.shields.io/badge/Laravel-gray?logo=Laravel&style=for-the-badge)
+![](https://img.shields.io/badge/Vuejs-gray?logo=Vue.js&style=for-the-badge)
+![](https://img.shields.io/badge/MariaDB-gray?logo=mariadb&style=for-the-badge)
+![](https://img.shields.io/badge/MSSql-gray?logo=Microsoft-SQL-Server&style=for-the-badge)
+![](https://img.shields.io/badge/Docker-gray?logo=Docker&style=for-the-badge)
+![](https://img.shields.io/badge/Kubernetes-gray?logo=Kubernetes&style=for-the-badge)
 
 ### Operating Systems:
 
-![](https://img.shields.io/badge/CentOS-gray?color=grey&logo=CentOS&style=for-the-badge)
-![](https://img.shields.io/badge/Debian-gray?color=grey&logo=Debian&style=for-the-badge)
+![](https://img.shields.io/badge/CentOS-gray?logo=CentOS&style=for-the-badge)
+![](https://img.shields.io/badge/Debian-gray?logo=Debian&style=for-the-badge)
+![](https://img.shields.io/badge/Fedora-gray?logo=Fedora&style=for-the-badge)
 
 ## Tools
-![](https://img.shields.io/badge/Visual%20Studio-gray?color=grey&logo=Visual-Studio&style=for-the-badge)
-![](https://img.shields.io/badge/Git-gray?color=grey&logo=Git&style=for-the-badge)
-![](https://img.shields.io/badge/Apache-gray?color=grey&logo=apache&style=for-the-badge)
+![](https://img.shields.io/badge/Visual%20Studio-gray?logo=Visual-Studio&style=for-the-badge)
+![](https://img.shields.io/badge/Git-gray?logo=Git&style=for-the-badge)
+![](https://img.shields.io/badge/Apache-gray?logo=apache&style=for-the-badge)
 
 
 ### Learning about:
-![](https://img.shields.io/badge/Ansible-gray?color=grey&logo=ansible&style=for-the-badge) ![](https://img.shields.io/badge/GithubActions-gray?color=grey&logo=github-actions&style=for-the-badge)
+![](https://img.shields.io/badge/Ansible-gray?logo=ansible&style=for-the-badge)
+![](https://img.shields.io/badge/GithubActions-gray?logo=github-actions&style=for-the-badge)
+![](https://img.shields.io/badge/Golang-gray?logo=go&style=for-the-badge)
 
 
 ---
@@ -52,4 +55,4 @@ A curious person by nature. Karaté lover and a fan of trading Card games like m
 
 ---
 ## Stats
-![Rubemlrm GitHub stats](https://github-readme-stats.vercel.app/api?username=rubemlrm&show_icons=true&theme=nord) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubemlrm&theme=nord&langs_count=8&layout=compact)]
+![Rubemlrm GitHub stats](https://github-readme-stats.vercel.app/api?username=rubemlrm&show_icons=true&theme=nord) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubemlrm&theme=nord&langs_count=8&layout=compact)
