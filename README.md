@@ -9,7 +9,7 @@
 
 ## About me
 
-A curious person by nature. Karaté lover and a fan of trading Card games like magic the gathering. In the past years i have worked mainly for web and some linux system administration.
+A curious person by nature. Karaté lover and a fan of trading Card games like magic the gathering. In the past years, I have worked mainly for web and some Linux system administration.
 
 ---
 ## Working with:
@@ -18,6 +18,8 @@ A curious person by nature. Karaté lover and a fan of trading Card games like m
 ![](https://img.shields.io/badge/php-gray?logo=php&style=for-the-badge)
 ![](https://img.shields.io/badge/javascript-gray?logo=Javascript&style=for-the-badge)
 ![](https://img.shields.io/badge/C%23-gray?logo=c-sharp&style=for-the-badge)
+![](https://img.shields.io/badge/Golang-gray?logo=go&style=for-the-badge)
+
 
 ### Tech/Frameworks:
 
@@ -28,6 +30,8 @@ A curious person by nature. Karaté lover and a fan of trading Card games like m
 ![](https://img.shields.io/badge/MSSql-gray?logo=Microsoft-SQL-Server&style=for-the-badge)
 ![](https://img.shields.io/badge/Docker-gray?logo=Docker&style=for-the-badge)
 ![](https://img.shields.io/badge/Kubernetes-gray?logo=Kubernetes&style=for-the-badge)
+![](https://img.shields.io/badge/Ansible-gray?logo=ansible&style=for-the-badge)
+![](https://img.shields.io/badge/GithubActions-gray?logo=github-actions&style=for-the-badge)
 
 ### Operating Systems:
 
@@ -41,12 +45,6 @@ A curious person by nature. Karaté lover and a fan of trading Card games like m
 ![](https://img.shields.io/badge/Apache-gray?logo=apache&style=for-the-badge)
 
 
-### Learning about:
-![](https://img.shields.io/badge/Ansible-gray?logo=ansible&style=for-the-badge)
-![](https://img.shields.io/badge/GithubActions-gray?logo=github-actions&style=for-the-badge)
-![](https://img.shields.io/badge/Golang-gray?logo=go&style=for-the-badge)
-
-
 ---
 ## Contributing to:
 
@@ -55,4 +53,7 @@ A curious person by nature. Karaté lover and a fan of trading Card games like m
 
 ---
 ## Stats
-![Rubemlrm GitHub stats](https://github-readme-stats.vercel.app/api?username=rubemlrm&show_icons=true&theme=nord) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubemlrm&theme=nord&langs_count=8&layout=compact)
+![Rubemlrm GitHub stats](https://github-readme-stats.vercel.app/api?username=rubemlrm&show_icons=true&theme=dark#gh-dark-mode-only)
+![Rubemlrm GitHub stats](https://github-readme-stats.vercel.app/api?username=rubemlrm&show_icons=true&theme=default#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubemlrm&theme=dark&langs_count=8&layout=compact#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubemlrm&theme=default&langs_count=8&layout=compact#gh-light-mode-only)
