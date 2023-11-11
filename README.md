@@ -54,6 +54,4 @@ A curious person by nature. Karaté lover and a fan of trading Card games like m
 ---
 ## Stats
 ![Rubemlrm GitHub stats](https://github-readme-stats.vercel.app/api?username=rubemlrm&show_icons=true&theme=dark#gh-dark-mode-only)
-![Rubemlrm GitHub stats](https://github-readme-stats.vercel.app/api?username=rubemlrm&show_icons=true&theme=default#gh-light-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubemlrm&theme=dark&langs_count=8&layout=compact#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubemlrm&theme=default&langs_count=8&layout=compact#gh-light-mode-only)
