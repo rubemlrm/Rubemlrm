@@ -1,7 +1,6 @@
 # Rubem Mota
 
 ## Can found me on:
-[![Twitter](https://img.shields.io/badge/twitter-gray?logo=twitter&style=for-the-badge)](https://twitter.com/rubemlrm)
 [![Linkedin](https://img.shields.io/badge/linked-gray?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/rubemlrm)
 [![Linkedin](https://img.shields.io/badge/gmail-gray?logo=gmail&style=for-the-badge)](mailto:rubemmota89@gmail.com)
 
