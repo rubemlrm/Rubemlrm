@@ -8,7 +8,7 @@
 
 ## About me
 
-A curious person by nature. Karaté lover and a fan of trading Card games like magic the gathering. In the past years, I have worked mainly for web and some Linux system administration.
+A curious person by nature. In the past years, I have worked mainly for web and some Linux system administration.
 
 ---
 ## Working with:
